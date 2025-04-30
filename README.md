@@ -1,6 +1,4 @@
-Claro! Aqui está uma sugestão de um **README** inicial para o seu repositório de estudos para o LPIC:
 
----
 
 # Estudos para LPIC - Exercícios Práticos
 
