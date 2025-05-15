@@ -50,7 +50,7 @@ Documentar de forma prática o processo de boot no Linux, incluindo:
 1. Edite o arquivo:
    ```bash
    sudo nano /etc/default/grub
-````
+   ````
 
 2. Modifique ou adicione:
 
