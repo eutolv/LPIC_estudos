@@ -4,7 +4,7 @@
 # Inspirado no botão "Apaga tudo" da investigação em Death Note.
 # Pode desmontar sistemas de arquivos, sobrescrever arquivos com múltiplos passes
 # e apagar espaço livre no disco. Você foi avisado.
-# Aoesar de que um hacker conseguiria facilmente (e de forma bem mais eficiente)
+# Apesar de que um hacker conseguiria facilmente (e de forma bem mais eficiente)
 # fazer tudo isso kkkk.......
 
 cat << "EOF"
