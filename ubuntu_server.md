@@ -1,4 +1,4 @@
-````markdown
+
 # 🚀 Meu Guia Completo: Instalando Ubuntu Server 24.04 LTS no VirtualBox e Configurando SSH com Chave RSA 🔐
 
 Este é o meu passo a passo para instalar o Ubuntu Server 24.04 LTS em uma máquina virtual Oracle VirtualBox, configurar o acesso remoto via SSH e autenticação por chave RSA. Ideal para meus estudos da certificação LPIC-1 e para ter um servidor Linux básico rodando para aprendizado. 🎓🐧
